@@ -475,6 +475,7 @@ export default {
         },
         customBackend: {
           "momov587": "https://subweb.momov587.cn:4443",
+          "momov587_1": "http://192.168.15.161:25500",
           "肥羊增强型后端【vless reality+hy1+hy2】": "https://url.v1.mk",
           "肥羊备用后端【vless reality+hy1+hy2】": "https://sub.d1.mk",
           "つつ-多地防失联【负载均衡+国内优化】": "https://api.tsutsu.one",
@@ -485,6 +486,7 @@ export default {
         },
         backendOptions: [
           {value: "https://subweb.momov587.cn:4443"},
+          {value: "http://192.168.15.161:25500"},
           {value: "https://url.v1.mk"},
           {value: "https://sub.d1.mk"},
           {value: "https://api.tsutsu.one"},
